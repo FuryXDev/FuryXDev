@@ -24,7 +24,7 @@ As a seasoned backend developer and system administrator, I specialize in:
 - Innovative projects involving Lua scripting or system automation.  
 
 📫 **How to reach me:**  
-- Email: [furyxdev@example.com]()  
+- Email: [contact@furyx-development.fr]()  
 - LinkedIn: [linkedin.com/in/furyxdev]()  
 - Twitter: [@FuryXDev]()  
 
